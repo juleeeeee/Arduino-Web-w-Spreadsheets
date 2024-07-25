@@ -1,0 +1,12 @@
+{
+    "name": "dika/vsc",
+    "description": "tuliskartu",
+    "type": "project",
+    "require": {
+        "composer": "^2.7",
+        "lepiaf/serialport": "^1.1",
+        "google/apiclient": "^2.16"
+    },
+    "license": "n",
+    "minimum-stability": "dev"
+}
